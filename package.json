@@ -1,0 +1,24 @@
+{
+  "name": "openai-nodejs",
+  "version": "1.0.0",
+  "description": "OpenAI API uses - 29 March 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openai",
+    "llm",
+    "chatgpt",
+    "dalle",
+    "ai",
+    "ml"
+  ],
+  "author": "Krishna Kumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.30.0",
+    "undici": "^6.10.2"
+  }
+}
